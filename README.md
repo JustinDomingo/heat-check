@@ -1,2 +1,2 @@
 # heat-check
-Weather app created by Node, Express, JS, and an API
+Heat check is a weather app created with Javascript, HTML, CSS, Node, and an API. It is run on a Node/Express server. Once the initial webpage is loaded, a function runs in which the app grabs your current location, sends a request to a weather API, and retrieves your local weather data. You can then use the input field to search for weather data of any city in the world. The weather data includes the city, temperature, weather, and matching icons.
